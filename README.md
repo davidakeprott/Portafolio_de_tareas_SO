@@ -34,5 +34,10 @@ _____
 <a href="https://github.com/davidakeprott/Portafolio_de_tareas_SO/blob/c55c4a43388301156074ab0bd87738f7d55e5a12/Tryhackme/Parte%201%20tryhackme.png" target="_blank"> <img src="/Tryhackme/Parte 1 tryhackme.png"/></a>
 <a href="https://github.com/davidakeprott/Portafolio_de_tareas_SO/blob/c55c4a43388301156074ab0bd87738f7d55e5a12/Tryhackme/Parte%201%20tryhackme.png" target="_blank"> <img src="Tryhackme/Parte 2 tryhackme.png"/></a>
 <a href="https://github.com/davidakeprott/Portafolio_de_tareas_SO/blob/c55c4a43388301156074ab0bd87738f7d55e5a12/Tryhackme/Parte%201%20tryhackme.png" target="_blank"> <img src="Tryhackme/Parte 3 tryhackme.png"/></a>
-<a href="https://github.com/davidakeprott/Portafolio_de_tareas_SO/blob/c55c4a43388301156074ab0bd87738f7d55e5a12/Tryhackme/Parte%201%20tryhackme.png" target="_blank"> <img src="Tryhackme/trhackme.png"/></a> 
+<a href="https://github.com/davidakeprott/Portafolio_de_tareas_SO/blob/c55c4a43388301156074ab0bd87738f7d55e5a12/Tryhackme/Parte%201%20tryhackme.png" target="_blank"> <img src="Tryhackme/trhackme.png"/></a>
+_____
+#####  Tarea 989  💻
+- [x] Realizar el room de Bash Scripting de TYryHackMe https://tryhackme.com/room/bashscripting
+<a href="https://github.com/davidakeprott/Portafolio_de_tareas_SO/blob/c55c4a43388301156074ab0bd87738f7d55e5a12/Tryhackme/Parte%201%20tryhackme.png" target="_blank"> <img src="Tryhackme/tryhackme bash scripts 1.png"/></a>
+<a href="https://github.com/davidakeprott/Portafolio_de_tareas_SO/blob/c55c4a43388301156074ab0bd87738f7d55e5a12/Tryhackme/Parte%201%20tryhackme.png" target="_blank"> <img src="Tryhackme/tryhackme bash scripts 2.png"/></a>
 
