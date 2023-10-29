@@ -29,6 +29,10 @@ _____
   - Dns->Bind9
 <a href="https://github.com/davidakeprott/Portafolio_de_tareas_SO/blob/2ab9099212b44d41f44f81d42268b406106a047f/CAPTareaClase.png" target="_blank"> <img src="/CAPTareaClase.png" width="auto" height="auto"/></a>
 _____
+#####  Tarea 992  💻
+- [x] Participar en el hacktoberfest 2023
+      <a href="https://github.com/davidakeprott/Portafolio_de_tareas_SO" target="_blank"> <img src="/Evidencia registro SO.png"/></a>
+_____
 #####  Tarea 989  💻
 - [x] Tarea #991 Realizar los rooms de Linux Fundamentals de tryhackme https://tryhackme.com/room/linuxfundamentalspart1  los 3 rooms, solo los que sean gratis.
 <a href="https://github.com/davidakeprott/Portafolio_de_tareas_SO/blob/c55c4a43388301156074ab0bd87738f7d55e5a12/Tryhackme/Parte%201%20tryhackme.png" target="_blank"> <img src="/Tryhackme/Parte 1 tryhackme.png"/></a>
