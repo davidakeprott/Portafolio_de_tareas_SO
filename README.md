@@ -19,6 +19,4 @@ Hacer un menú en bash que permita elegir la ejecución entre el script para cre
 #####  Tarea 993  💻
 - [x] Realizar todos los niveles de Bandit de https://overthewire.org/wargames/bandit/ poner evidencia de los comandos utilizados en un txt
 https://github.com/davidakeprott/Portafolio_de_tareas_SO/blob/main/Comandos%20lvl%20Juego%20Bandit%20SO.txt#L1-L4
-> [!IMPORTANT]
-> Comandos Utilizados de 
-> <a href="https://github.com/davidakeprott/Portafolio_de_tareas_SO/edit/main/Comandos lvl Juego Bandit SO.txt" target="_blank"> Comandos bandit </a>
+
