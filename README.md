@@ -5,6 +5,10 @@ Portafolio de tareas de la materia Sistemas Operativos UPQROO
 - [x] Instalar Virtualbox y alguna distribucion de Linux, entregar para el 12/09/23, tomar screenshot del sistema ya instalado y subir la captura a su repositorio de tareas como evidencia.
       <a href="https://github.com/davidakeprott/Portafolio_de_tareas_SO" target="_blank"> <img src="/Captura SO Linux Distribucion Debian.png"/></a>
 _____
+
+#####  Tarea 997💻
+- [x] Hacer el https://vim-adventures.com/ los niveles gratuitos, sacar un screenshot del ultimo nivel y subirlo a su repositorio de tareas para el 12/09/23 antes de clase. 
+      <a href="https://github.com/davidakeprott/Portafolio_de_tareas_SO" target="_blank"> <img src="/Juego vim adventurre.png"/></a>
 _____
 #####  Tarea 996  
 Hacer un menú en bash que permita elegir la ejecución entre el script para crear un árbol de directorios, el script de hola mundo y el script de saludo usando variables y por último la opción de salir. Minuto 11:11 Ejecucion Menu
