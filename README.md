@@ -1,37 +1,38 @@
 # Portafolio_de_tareas_SO
 Portafolio de tareas de la materia Sistemas Operativos UPQROO
 
-#####  Tarea 998  💻
+#####  Tarea #998 💻
 - [x] Instalar Virtualbox y alguna distribucion de Linux, entregar para el 12/09/23, tomar screenshot del sistema ya instalado y subir la captura a su repositorio de tareas como evidencia.
       <a href="https://github.com/davidakeprott/Portafolio_de_tareas_SO" target="_blank"> <img src="/Captura SO Linux Distribucion Debian.png"/></a>
 _____
 
-#####  Tarea 997💻
+#####  Tarea #997 💻
 - [x] Hacer el https://vim-adventures.com/ los niveles gratuitos, sacar un screenshot del ultimo nivel y subirlo a su repositorio de tareas para el 12/09/23 antes de clase. 
       <a href="https://github.com/davidakeprott/Portafolio_de_tareas_SO" target="_blank"> <img src="/Juego vim adventurre.png"/></a>
 _____
-#####  Tarea 996  
+#####  Tarea #996 💻  
 Hacer un menú en bash que permita elegir la ejecución entre el script para crear un árbol de directorios, el script de hola mundo y el script de saludo usando variables y por último la opción de salir.
 
 <a href="https://asciinema.org/a/FFRaHiqyB6YhU9mHjqjwBtjZE" target="_blank"><img src="https://asciinema.org/a/FFRaHiqyB6YhU9mHjqjwBtjZE.svg" /></a>
 
 <a href="https://github.com/davidakeprott/Portafolio_de_tareas_SO/blob/main/Cap_menu_bash.png" target="_blank"> <img src="/Cap_menu_bash.png"></a> 
 _______
-#####  Tarea 995  💻
+#####  Tarea #995 💻
 
 - [x] Crear un gif que explique algún concepto, relacionado al curso, que hayas aprendido.
 
 ![GIF de Comando](https://github.com/davidakeprott/Portafolio_de_tareas_SO/blob/main/Mensajes%20con%20variables.gif)
 _____
-- [x] Tarea #994 Realizar los 18 bash scripts que vienen en el PDF shell_linux.pdf, subirlos a su repositorio. Para hacer hoy durante la clase. 
+#####  Tarea #994 💻
+- [x]  Realizar los 18 bash scripts que vienen en el PDF shell_linux.pdf, subirlos a su repositorio. Para hacer hoy durante la clase. 
 
 <a href="https://github.com/davidakeprott/Portafolio_de_tareas_SO/blob/main/BASHMENU18" target="_blank">CARPETA 18 SCRIPTS</a> 
 _____
-#####  Tarea 993  💻
+#####  Tarea #993 💻
 - [x] Realizar todos los niveles de Bandit de https://overthewire.org/wargames/bandit/ poner evidencia de los comandos utilizados en un txt
-https://github.com/davidakeprott/Portafolio_de_tareas_SO/blob/main/Comandos%20lvl%20Juego%20Bandit%20SO.txt#L1-L4
+    <a href="https://github.com/davidakeprott/Portafolio_de_tareas_SO/blob/main/Comandos lvl Juego Bandit SO.txt" target="_blank">TEXT comandos Bandit </a> 
 _____
-#####  Tarea 986  💻
+#####  Tarea #986 💻
 - [x] Servidores
   - SSH->Open SSh
   - Web->Apache
