@@ -52,10 +52,12 @@ ____________
 <a href="https://github.com/davidakeprott/Portafolio_de_tareas_SO/blob/c55c4a43388301156074ab0bd87738f7d55e5a12/Tryhackme/Parte%201%20tryhackme.png" target="_blank"> <img src="Tryhackme/tryhackme bash scripts 2.png"/></a>
 __________
 #####  Tarea #988 💻
-- [ ]  Realizar el siguiente ejercicio durante la clase de hoy, documentar los resultados en un PDF mediante screenshots y subir el PDF a su repositorio como evidencia Realizar el room de Bash Scripting de TYryHackMe https://tryhackme.com/room/bashscripting
+- [x]  Realizar el siguiente ejercicio durante la clase de hoy, documentar los resultados en un PDF mediante screenshots y subir el PDF a su repositorio como evidencia 
+      <a href="https://github.com/davidakeprott/Portafolio_de_tareas_SO/blob/main/PDF1Comandos.pdf" target="_blank"> PDF del ejercicio1</a>
 _____________________
 #####  Tarea #987 💻
-- [ ] Realizar el siguiente laboratorio durante la clase de hoy , en un PDF documentar con screenshots los resultados de sus comandos y las respuestas a sus preguntas. Subir el PDF a su repo.
+- [x] Realizar el siguiente laboratorio durante la clase de hoy , en un PDF documentar con screenshots los resultados de sus comandos y las respuestas a sus preguntas. Subir el PDF a su repo.
+      <a href="https://github.com/davidakeprott/Portafolio_de_tareas_SO/blob/main/PDF2Comandos.pdf" target="_blank"> PDF del ejercicio2</a>
 _____________________
 #####  Tarea #986 💻
 - [x] Servidores
