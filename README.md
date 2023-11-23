@@ -44,7 +44,8 @@ _____
 <a href="https://github.com/davidakeprott/Portafolio_de_tareas_SO/blob/c55c4a43388301156074ab0bd87738f7d55e5a12/Tryhackme/Parte%201%20tryhackme.png" target="_blank"> <img src="Tryhackme/trhackme.png"/></a>
 _______
 #####  Tarea #990 💻
-- [ ] Crear un jail, del estilo de bandit, aquí explicó cómo crear un jail y en qué consiste y así, está hecho con Python, pueden usar cualquier lenguaje 
+- [x] Crear un jail, del estilo de bandit, aquí explicó cómo crear un jail y en qué consiste y así, está hecho con Python, pueden usar cualquier lenguaje
+     <a href="https://github.com/davidakeprott/Portafolio_de_tareas_SO/blob/main/JailTareaSo.py" target="_blank">TareaJain</a>
 ____________
 #####  Tarea #989 💻
 - [x] Realizar el room de Bash Scripting de TYryHackMe https://tryhackme.com/room/bashscripting
