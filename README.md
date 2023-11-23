@@ -23,6 +23,10 @@ _______
 
 ![GIF de Comando](https://github.com/davidakeprott/Portafolio_de_tareas_SO/blob/main/Mensajes%20con%20variables.gif)
 _____
+- [x] Tarea #994 Realizar los 18 bash scripts que vienen en el PDF shell_linux.pdf, subirlos a su repositorio. Para hacer hoy durante la clase. 
+
+<a href="https://github.com/davidakeprott/Portafolio_de_tareas_SO/blob/main/BASHMENU18" target="_blank">CARPETA 18 SCRIPTS</a> 
+_____
 #####  Tarea 993  💻
 - [x] Realizar todos los niveles de Bandit de https://overthewire.org/wargames/bandit/ poner evidencia de los comandos utilizados en un txt
 https://github.com/davidakeprott/Portafolio_de_tareas_SO/blob/main/Comandos%20lvl%20Juego%20Bandit%20SO.txt#L1-L4
