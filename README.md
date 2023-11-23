@@ -43,6 +43,20 @@ _____
 <a href="https://github.com/davidakeprott/Portafolio_de_tareas_SO/blob/c55c4a43388301156074ab0bd87738f7d55e5a12/Tryhackme/Parte%201%20tryhackme.png" target="_blank"> <img src="Tryhackme/Parte 3 tryhackme.png"/></a>
 <a href="https://github.com/davidakeprott/Portafolio_de_tareas_SO/blob/c55c4a43388301156074ab0bd87738f7d55e5a12/Tryhackme/Parte%201%20tryhackme.png" target="_blank"> <img src="Tryhackme/trhackme.png"/></a>
 _______
+#####  Tarea #990 💻
+- [ ] Crear un jail, del estilo de bandit, aquí explicó cómo crear un jail y en qué consiste y así, está hecho con Python, pueden usar cualquier lenguaje 
+____________
+#####  Tarea #989 💻
+- [x] Realizar el room de Bash Scripting de TYryHackMe https://tryhackme.com/room/bashscripting
+<a href="https://github.com/davidakeprott/Portafolio_de_tareas_SO/blob/c55c4a43388301156074ab0bd87738f7d55e5a12/Tryhackme/Parte%201%20tryhackme.png" target="_blank"> <img src="Tryhackme/tryhackme bash scripts 1.png"/></a>
+<a href="https://github.com/davidakeprott/Portafolio_de_tareas_SO/blob/c55c4a43388301156074ab0bd87738f7d55e5a12/Tryhackme/Parte%201%20tryhackme.png" target="_blank"> <img src="Tryhackme/tryhackme bash scripts 2.png"/></a>
+__________
+#####  Tarea #988 💻
+- [ ]  Realizar el siguiente ejercicio durante la clase de hoy, documentar los resultados en un PDF mediante screenshots y subir el PDF a su repositorio como evidencia Realizar el room de Bash Scripting de TYryHackMe https://tryhackme.com/room/bashscripting
+_____________________
+#####  Tarea #987 💻
+- [ ] Realizar el siguiente laboratorio durante la clase de hoy , en un PDF documentar con screenshots los resultados de sus comandos y las respuestas a sus preguntas. Subir el PDF a su repo.
+_____________________
 #####  Tarea #986 💻
 - [x] Servidores
   - SSH->Open SSh
@@ -51,9 +65,6 @@ _______
   - ProxyWeb->Squid
   - Dns->Bind9
 <a href="https://github.com/davidakeprott/Portafolio_de_tareas_SO/blob/2ab9099212b44d41f44f81d42268b406106a047f/CAPTareaClase.png" target="_blank"> <img src="/CAPTareaClase.png" width="auto" height="auto"/></a>
-_____
-#####  Tarea #989 💻
-- [x] Realizar el room de Bash Scripting de TYryHackMe https://tryhackme.com/room/bashscripting
-<a href="https://github.com/davidakeprott/Portafolio_de_tareas_SO/blob/c55c4a43388301156074ab0bd87738f7d55e5a12/Tryhackme/Parte%201%20tryhackme.png" target="_blank"> <img src="Tryhackme/tryhackme bash scripts 1.png"/></a>
-<a href="https://github.com/davidakeprott/Portafolio_de_tareas_SO/blob/c55c4a43388301156074ab0bd87738f7d55e5a12/Tryhackme/Parte%201%20tryhackme.png" target="_blank"> <img src="Tryhackme/tryhackme bash scripts 2.png"/></a>
+
+
 
