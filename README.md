@@ -32,6 +32,10 @@ _____
 - [x] Realizar todos los niveles de Bandit de https://overthewire.org/wargames/bandit/ poner evidencia de los comandos utilizados en un txt
     <a href="https://github.com/davidakeprott/Portafolio_de_tareas_SO/blob/main/Comandos lvl Juego Bandit SO.txt" target="_blank">TEXT comandos Bandit </a> 
 _____
+#####  Tarea #992 💻
+- [x] Participar en el hacktoberfest 2023
+      <a href="https://github.com/davidakeprott/Portafolio_de_tareas_SO" target="_blank"> <img src="/Evidencia registro SO.png"/></a>
+_____
 #####  Tarea #986 💻
 - [x] Servidores
   - SSH->Open SSh
@@ -41,18 +45,14 @@ _____
   - Dns->Bind9
 <a href="https://github.com/davidakeprott/Portafolio_de_tareas_SO/blob/2ab9099212b44d41f44f81d42268b406106a047f/CAPTareaClase.png" target="_blank"> <img src="/CAPTareaClase.png" width="auto" height="auto"/></a>
 _____
-#####  Tarea 992  💻
-- [x] Participar en el hacktoberfest 2023
-      <a href="https://github.com/davidakeprott/Portafolio_de_tareas_SO" target="_blank"> <img src="/Evidencia registro SO.png"/></a>
-_____
-#####  Tarea 989  💻
+#####  Tarea #989 💻
 - [x] Tarea #991 Realizar los rooms de Linux Fundamentals de tryhackme https://tryhackme.com/room/linuxfundamentalspart1  los 3 rooms, solo los que sean gratis.
 <a href="https://github.com/davidakeprott/Portafolio_de_tareas_SO/blob/c55c4a43388301156074ab0bd87738f7d55e5a12/Tryhackme/Parte%201%20tryhackme.png" target="_blank"> <img src="/Tryhackme/Parte 1 tryhackme.png"/></a>
 <a href="https://github.com/davidakeprott/Portafolio_de_tareas_SO/blob/c55c4a43388301156074ab0bd87738f7d55e5a12/Tryhackme/Parte%201%20tryhackme.png" target="_blank"> <img src="Tryhackme/Parte 2 tryhackme.png"/></a>
 <a href="https://github.com/davidakeprott/Portafolio_de_tareas_SO/blob/c55c4a43388301156074ab0bd87738f7d55e5a12/Tryhackme/Parte%201%20tryhackme.png" target="_blank"> <img src="Tryhackme/Parte 3 tryhackme.png"/></a>
 <a href="https://github.com/davidakeprott/Portafolio_de_tareas_SO/blob/c55c4a43388301156074ab0bd87738f7d55e5a12/Tryhackme/Parte%201%20tryhackme.png" target="_blank"> <img src="Tryhackme/trhackme.png"/></a>
 _____
-#####  Tarea 989  💻
+#####  Tarea #989 💻
 - [x] Realizar el room de Bash Scripting de TYryHackMe https://tryhackme.com/room/bashscripting
 <a href="https://github.com/davidakeprott/Portafolio_de_tareas_SO/blob/c55c4a43388301156074ab0bd87738f7d55e5a12/Tryhackme/Parte%201%20tryhackme.png" target="_blank"> <img src="Tryhackme/tryhackme bash scripts 1.png"/></a>
 <a href="https://github.com/davidakeprott/Portafolio_de_tareas_SO/blob/c55c4a43388301156074ab0bd87738f7d55e5a12/Tryhackme/Parte%201%20tryhackme.png" target="_blank"> <img src="Tryhackme/tryhackme bash scripts 2.png"/></a>
