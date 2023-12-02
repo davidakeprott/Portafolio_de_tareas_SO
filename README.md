@@ -67,7 +67,7 @@ _____________________
   - DB->MariaDB
   - ProxyWeb->Squid
   - Dns->Bind9
-<a href="https://github.com/davidakeprott/Portafolio_de_tareas_SO/blob/2ab9099212b44d41f44f81d42268b406106a047f/CAPTareaClase.png" target="_blank"> <img src="/CAPTareaClase.png" width="auto" height="auto"/></a>
+<a href="https://github.com/davidakeprott/Portafolio_de_tareas_SO/blob/2ab9099212b44d41f44f81d42268b406106a047f/CAPTareaClase.png" target="_blank"> <img src="/CAP instalaciones servicios.png" width="auto" height="auto"/></a>
 
 
 
