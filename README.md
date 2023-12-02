@@ -61,12 +61,7 @@ _____________________
       <a href="https://github.com/davidakeprott/Portafolio_de_tareas_SO/blob/main/PDF2Comandos.pdf" target="_blank"> PDF del ejercicio2</a>
 _____________________
 #####  Tarea #986 💻
-- [x] Servidores
-  - SSH->Open SSh
-  - Web->Apache
-  - DB->MariaDB
-  - ProxyWeb->Squid
-  - Dns->Bind9
+- [x] Realizar la instalación de los servicios de red en el servidor Linux (web, dB, DNS, proxy, VPN, FTP). Entregar para fin de cuatrimestre. Subir evidencia a su repositorio de GitHub.
 <a href="https://github.com/davidakeprott/Portafolio_de_tareas_SO/blob/2ab9099212b44d41f44f81d42268b406106a047f/CAPTareaClase.png" target="_blank"> <img src="/CAP instalaciones servicios.png" width="auto" height="auto"/></a>
 
 
